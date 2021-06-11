@@ -1,7 +1,4 @@
-# # Implemented by Dingquan Li
-# # Email: dingquanli@pku.edu.cn
-# # Date: 2018/4/19
-#
+
 # import os
 # import torch
 # from torch.utils.data import Dataset
@@ -126,9 +123,9 @@
 #         # 返回一个img的一个patch以及其标签。
 
 
-# Implemented by Dingquan Li
-# Email: dingquanli@pku.edu.cn
-# Date: 2018/4/19
+# Implemented by Li Yang
+# Email: 13021041@buaa.edu.cn
+# Date: 2021/6/6
 
 import os
 import torch
