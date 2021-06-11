@@ -1,5 +1,5 @@
 # TTO
-Head trajectory prediction on 360 degree images based on Transformer network
+Head trajectory prediction on 360 degree images based on Transformer network. This project is based on a paper which is under review. Anyone cannot use it in any application including paper submission.
 
 
 1. First step
