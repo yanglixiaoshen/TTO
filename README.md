@@ -5,7 +5,7 @@ Head trajectory prediction on 360 degree images based on Transformer network. Th
 
 # HTRO dataset for training/testing the TTO 
 
-The pre-processed training/testing dataset has been uploaded onto the cloud storage. The link is: https://bhpan.buaa.edu.cn:443/link/3C52FC20F3C976D50B394B039E7C4863.
+The pre-processed training/testing dataset has been uploaded onto the cloud storage. The link is: https://bhpan.buaa.edu.cn:443/link/7F9B5536B2B20458089D21D920C9FBF6.
 
 Note:
 
